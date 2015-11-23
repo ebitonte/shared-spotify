@@ -1,0 +1,13 @@
+{
+	"name": "shared-spotify",
+	"version": "0.1.0",
+	"description": "Listen along with friend's Spotify",
+	"main": "app.js",
+	"dependencies" : {
+		"express": "*",
+		"morgan": "*"
+	},
+	"scripts" : {
+		"install": "bower install"
+	}
+}
